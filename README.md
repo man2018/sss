@@ -1,6 +1,6 @@
 # 安装   
 
-https://raw.githubusercontent.com/man2018/sss/master/install.sh && chmod +x install.sh && ./install.sh   
+```wget https://raw.githubusercontent.com/man2018/sss/master/install.sh && chmod +x install.sh && ./install.sh```   
 
 如下图所示   
 
@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/man2018/sss/master/install.sh && chmod +x inst
 
 # 卸载   
 
-./install uninstall   
+```./install uninstall```   
 
 # 声明   
 
