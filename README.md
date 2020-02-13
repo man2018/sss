@@ -5,4 +5,4 @@ https://raw.githubusercontent.com/man2018/sss/master/install.sh && chmod +x inst
 # 卸载
 ./install uninstall
 # 声明
-修改于秋水大佬的脚本
+修改于秋水大佬的脚本，感谢
